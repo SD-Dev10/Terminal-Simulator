@@ -7,6 +7,7 @@
     ██╔══╝  ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
     ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
     ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+    
     Finder is a terminal simulator built in Rust that replicates some of the most common UNIX-like shell commands.
     It’s designed to give a colorful, lightweight, and interactive experience for navigating directories and exploring files,
     while being simple enough for beginners to understand Rust module-based projects.
